@@ -1,2 +1,3 @@
-# PerpCourse-Henry2
-Este en un repositorio de prueba del módulo 2 de el PrepCourse de Henry
+Andry Gallardo
+
+Este proyecto es un prueba de como crear un repositorio y clonarlo desde Github a mi computadora
